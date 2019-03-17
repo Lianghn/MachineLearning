@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning algorithms and Cases
+Machine Learning algorithms and Applications
