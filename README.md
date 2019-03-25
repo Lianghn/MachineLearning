@@ -2,6 +2,8 @@
 
 Machine Learning Algorithm Implementations and Application Approaches: 
 
+Most of the projects come from Andrew Ng's Machine Learning Course, [Stanford University/Cousera Certificat](https://www.coursera.org/account/accomplishments/records/X33BV9NNMF4P). The projects are completed at first in 'Octave' and then ported/tested with Python.
+
 Application | Algorithm
 ----------- | ---------
 [Build a Movie Recommender System](https://github.com/Lianghn/MachineLearning/blob/master/Movie-Recommender-System_Collaborative_Filtering_Learning_Algorithm.ipynb) |Implementing the **Collaborative Filtering Learning Algorithm**
