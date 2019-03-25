@@ -2,7 +2,7 @@
 
 Machine Learning Algorithm Implementations and Application Approaches: 
 
-Most of the projects come from Andrew Ng's Machine Learning Course, [Stanford University/Cousera Certificat](https://www.coursera.org/account/accomplishments/records/X33BV9NNMF4P). The projects are completed at first in 'Octave' and then ported/tested with Python.
+Most of the projects come from Andrew Ng's Machine Learning Course, [Stanford University/Cousera Certificat](https://www.coursera.org/account/accomplishments/verify/P5ER9XXBVPCX). The projects are completed at first in 'Octave' and then ported/tested with Python.
 
 Application | Algorithm
 ----------- | ---------
